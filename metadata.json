@@ -1,0 +1,6 @@
+{
+  "name": "AutoRecover AI",
+  "description": "Autonomous payment recovery engine with multi-agent orchestration, idempotent transaction ledger, and real-time failure diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
